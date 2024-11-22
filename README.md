@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @mohamed0oo01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, Mohamed ELHaddad
+#### I am IOT Engineer &Mobile app developer
+![I am IOT Engineer &Mobile app developer](https://github.com/mohamed0oo01/mohamed0oo01/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner%20(6).png)
 
-<!---
-mohamed0oo01/mohamed0oo01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an  IoT Engineer and Mobile App Developer with a passion for harnessing the power of AI, Machine Learning, and Big Data to create innovative solutions. My expertise lies in designing and developing cutting-edge IoT systems, building intuitive mobile applications, and exploring data-driven technologies to solve real-world challenges.
+
+Skills: Big Data Analytics / Data Analysis / Fluttrt / Python / HTML / AI
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-elhaddad-ab5a052a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEVYBP20jT9i%2BGnSMYy7YpA%3D%3D/)  
+
