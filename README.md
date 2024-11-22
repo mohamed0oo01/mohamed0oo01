@@ -11,7 +11,7 @@ I am an  IoT Engineer and Mobile App Developer with a passion for harnessing the
 * Big Data Analytics 
 * Data Analysis 
 * Fluttrt 
-* Python 
+* <a href="https://iconscout.com/icons/python" class="text-underline font-size-sm" target="_blank">Python</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>Python 
 * HTML
 * AI
 
