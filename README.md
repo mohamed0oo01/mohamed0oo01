@@ -8,12 +8,11 @@
 I am an  IoT Engineer and Mobile App Developer with a passion for harnessing the power of AI, Machine Learning, and Big Data to create innovative solutions. My expertise lies in designing and developing cutting-edge IoT systems, building intuitive mobile applications, and exploring data-driven technologies to solve real-world challenges.
 
 ## Skills and Experience
-* 📈Big Data Analytics 
-* 📊Data Analysis 
-* 📱Fluttrt 
-* 🐍Python 
-* 💻HTML
+#📱Fluttrt
 * 🤖AI
+* 🐍Python 
+* 📊Data Analysis 
+* 💻HTML
 
 ## Examples About My Work
 
